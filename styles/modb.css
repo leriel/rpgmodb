@@ -118,12 +118,6 @@ div.item-detail header h1 {
 }
 
 
-@media only screen and (min-width:992px) {
-  #site-nav {
-    position: static;
-  }
-}
-
 #loading {
   float: right;
   position: absolute;
